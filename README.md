@@ -27,11 +27,17 @@ pip3 install -r requirements.txt
 ### 📈 Usage
 
 ```
-python3 yahoo-finance-bot.py -v VALUECODE -d startday -mo startmonth -y startyear
+python3 yahoo-finance-bot-gui.py
 
 ```
 
 ### Demo
+
+[img1](yfb1.PNG)
+[img1](yfb4.PNG)
+[img1](yfb2.PNG)
+[img1](yfb3.PNG)
+
 
 #### Contact info :
 
