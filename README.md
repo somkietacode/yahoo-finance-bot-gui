@@ -33,10 +33,10 @@ python3 yahoo-finance-bot-gui.py
 
 ### Demo
 
-[img1](yfb1.PNG)
-[img1](yfb4.PNG)
-[img1](yfb2.PNG)
-[img1](yfb3.PNG)
+![img1](yfb1.PNG)
+![img2](yfb4.PNG)
+![img3](yfb2.PNG)
+![img4](yfb3.PNG)
 
 
 #### Contact info :
